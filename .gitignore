@@ -1,0 +1,11 @@
+node_modules
+dist
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+supabase/.temp
+supabase/.branches
+supabase/functions/.env
+reference/
+reference-IMG_4738.PNG
